@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale --randomize --no-fehbg /home/drox/Pictures/wallpapers/*

@@ -1,0 +1,25 @@
+[General]
+# Path to the calcurse binary that is used for importing/exporting items.
+Binary = calcurse
+
+Hostname = apidata.googleusercontent.com
+Path = /caldav/v2/millerman9ine@gmail.com/events/
+
+AuthMethod = oauth2
+InsecureSSL = No
+
+DryRun = No
+Verbose = Yes
+
+#[Auth]
+#Username = user
+#Password = pass
+
+#[CustomHeaders]
+#User-Agent = Mac_OS_X/10.9.2 (13C64) CalendarAgent/176
+
+[OAuth2]
+ClientID = 214168905166-pdcanrbiad5sr29rq4umrkg1had7h27e.apps.googleusercontent.com
+ClientSecret = zUKMmmEwnhT-v0RoncxSOBJJ
+Scope = https://www.googleapis.com/auth/calendar
+RedirectURI = http://127.0.0.1

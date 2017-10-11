@@ -1,0 +1,2 @@
+rofi.theme: ~/.config/rofi/leve-froly.rasi
+#include "/usr/share/rofi/themes//android_notification.theme"
