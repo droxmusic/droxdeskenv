@@ -4,7 +4,7 @@ An Openbox-based Desktop Environment for Powerusers
 ### What
 ddenv is a Desktop Environment without frills and streamlined for a specific workflow and selectable performance while not looking too bad. Idle runs at ~500 MB and many tasks have two programs for use, one less demanding than the other.
 
-![https://i.imgur.com/jrETBIz.png]
+![](https://i.imgur.com/jrETBIz.png)
 
 The workflow relies heavily on hotkey use with but most functionality can be done with the mouse if you enable windows decorations (CTRL-b). Left-right tile windows with Super+Left/Right, move desktops with A-C-Left/Right, Move the window with you with A-S-Left/Right. The system works best by giving desktops a purpose and keeping associated programs there (hence desktop icons)
 
